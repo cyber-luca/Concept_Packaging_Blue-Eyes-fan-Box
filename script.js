@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (cart.quantity > 0) {
                 cartItems.innerHTML = `
                     <div class="cart-item">
-                        <img src="/Immagini/il-set.png" alt="Blue-Eyes Fan Box Set">
+                        <img src="Immagini/il-set.png" alt="Blue-Eyes Fan Box Set">
                         <div class="cart-item-details">
                             <h3>BLUE-EYES FAN BOX SET</h3>
                             <p>Il set completo include tappetino, statua e carte esclusive.</p>
